@@ -1,12 +1,13 @@
 ---
 title: テスト記事
 tags:
-  - test
+  - テスト
 private: true
-id: null
-updated_at: ''
+updated_at: '2025-08-24T11:56:18+09:00'
+id: b05e4d229df82f053875
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 # これはテスト記事です
